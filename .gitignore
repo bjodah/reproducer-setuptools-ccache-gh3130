@@ -1,0 +1,4 @@
+build/
+my_*_pkg/*.cpp
+my_*_pkg/*.so
+**/__pycache__
